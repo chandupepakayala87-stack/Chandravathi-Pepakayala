@@ -193,7 +193,7 @@ function App() {
         </p>
 
         <a
-          href="mailto:your-email@example.com"
+          href="mailto:chandupepakayala87@gmail.com
           className="button contact-button"
         >
           Send Me an Email 📩
