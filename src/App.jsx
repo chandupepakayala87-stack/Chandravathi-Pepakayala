@@ -193,11 +193,12 @@ function App() {
         </p>
 
         <a
-          href="mailto:chandupepakayala87@gmail.com
-          className="button contact-button"
-        >
-          Send Me an Email 📩
-        </a>
+          
+  href="mailto:chandupepakayala87@gmail.com"
+  className="button contact-button"
+>
+  Send Me an Email 📩
+</a>
         <div className="social-links">
 
   <a
